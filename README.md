@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python,Django,Mongo DB**
+- 🌱 I’m currently learning **Python,Django,SQL,Tableau,PowerBi**
 
 - 📫 How to reach me **devansh27gupta@gmail.com**
 
